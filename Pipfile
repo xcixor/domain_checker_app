@@ -6,11 +6,12 @@ verify_ssl = true
 [dev-packages]
 coverage = "*"
 coveralls = "*"
-gunicorn = "==19.9.0"
 whitenoise = "*"
 
 [packages]
 django = "==2.2.2"
+django-heroku = "*"
+gunicorn = "==19.9.0"
 
 [requires]
 python_version = "3.7"
