@@ -4,4 +4,4 @@ flake8:
 
 eslint:
   enabled: true
-    ignore_file: .eslintignore
+  ignore_file: .eslintignore
