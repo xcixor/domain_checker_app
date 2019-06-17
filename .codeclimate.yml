@@ -7,4 +7,5 @@ exclude_patterns: ["config/", "db/", "dist/", "features/", "**/node_modules/", "
                     "**/spec/", "**/test/", "**/tests/", "Tests/", "**/vendor/", "**/*_test.go",
                     "**/*.d.ts", 'src/core/domain_app/migrations',
                     'src/core/domain_app/static/js/agency/*',
-                    'src/core/domain_app/static/js/jquery-easing/*']
+                    'src/core/domain_app/static/js/jquery-easing/*',
+                    'src/core/domain_app/static/js/jqBootstrapValidation.js']
