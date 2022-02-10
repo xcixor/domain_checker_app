@@ -8,7 +8,7 @@ coverage = "*"
 coveralls = "*"
 
 [packages]
-django = "==2.2.2"
+django = "==2.2.27"
 django-heroku = "*"
 gunicorn = "==19.9.0"
 whitenoise = "*"
